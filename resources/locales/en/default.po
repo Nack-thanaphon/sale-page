@@ -1,0 +1,435 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-11-27 15:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/Admin/CartController.php:53
+#: ./src/Controller/Admin/CartController.php:75
+#: ./src/Controller/CartController.php:126
+msgid "The cart has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/CartController.php:56
+#: ./src/Controller/Admin/CartController.php:78
+#: ./src/Controller/CartController.php:130
+msgid "The cart could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/CartController.php:94
+#: ./src/Controller/CartController.php:140
+msgid "The cart has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/CartController.php:96
+#: ./src/Controller/CartController.php:142
+msgid "The cart could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/ContactController.php:54
+#: ./src/Controller/Admin/ContactController.php:78
+msgid "The contact has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/ContactController.php:58
+#: ./src/Controller/Admin/ContactController.php:82
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/ContactController.php:99
+msgid "The contact has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/ContactController.php:101
+msgid "The contact could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/ImageController.php:55
+#: ./src/Controller/Admin/ImageController.php:89
+#: ./src/Controller/Admin/ImageController.php:153
+#: ./src/Controller/Admin/ImageController.php:199
+msgid "The image has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/ImageController.php:59
+#: ./src/Controller/Admin/ImageController.php:94
+#: ./src/Controller/Admin/ImageController.php:158
+#: ./src/Controller/Admin/ImageController.php:203
+msgid "The image could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/OrdersController.php:82
+#: ./src/Controller/Admin/OrdersController.php:151
+msgid "The order has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/OrdersController.php:86
+#: ./src/Controller/Admin/OrdersController.php:155
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/OrdersController.php:173
+msgid "The order has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/OrdersController.php:175
+msgid "The order could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:147
+#: ./src/Controller/Admin/ProductsController.php:157
+msgid "ไม่สามารถบันทึกได้"
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:175
+#: ./src/Controller/Admin/ProductsController.php:185
+msgid "บันทึกเรียบร้อย"
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:241
+#: ./src/Controller/Admin/ProductsController.php:251
+msgid "The post has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:245
+#: ./src/Controller/Admin/ProductsController.php:255
+msgid "The post could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:314
+msgid "The posts has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:316
+msgid "The posts could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/ProductsController.php:324
+msgid "The product has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/ProductsController.php:326
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:83
+#: ./src/Controller/Customer/DashboardController.php:226
+msgid "The user has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:87
+#: ./src/Controller/Customer/DashboardController.php:230
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:98
+msgid "The user has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:100
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/CartitemController.php:53
+#: ./src/Controller/CartitemController.php:77
+msgid "The cartitem has been saved."
+msgstr ""
+
+#: ./src/Controller/CartitemController.php:57
+#: ./src/Controller/CartitemController.php:81
+msgid "The cartitem could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/CartitemController.php:98
+msgid "The cartitem has been deleted."
+msgstr ""
+
+#: ./src/Controller/CartitemController.php:100
+msgid "The cartitem could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/UsersController.php:93
+msgid "Username or password is incorrect"
+msgstr ""
+
+#: ./src/Controller/UsersController.php:96
+msgid "กรุณาเข้าสู่ระบบ หรือ สมัครสมาชิก !!"
+msgstr ""
+
+#: ./templates/Admin/Cart/edit.php:10
+#: ./templates/Admin/Cart/view.php:10
+#: ./templates/Cart/edit.php:10
+#: ./templates/Cartitem/add.php:10
+#: ./templates/Cartitem/edit.php:10
+#: ./templates/Cartitem/index.php:20
+#: ./templates/Cartitem/view.php:10
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Admin/Cart/edit.php:12
+#: ./templates/Cart/edit.php:12
+#: ./templates/Cartitem/edit.php:12
+#: ./templates/Cartitem/index.php:35
+msgid "Delete"
+msgstr ""
+
+#: ./templates/Admin/Cart/edit.php:14
+#: ./templates/Admin/Cart/view.php:12
+#: ./templates/Cart/edit.php:14
+#: ./templates/Cartitem/edit.php:14
+#: ./templates/Cartitem/index.php:35
+#: ./templates/Cartitem/view.php:12
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Admin/Cart/edit.php:16
+#: ./templates/Admin/Cart/view.php:13
+#: ./templates/Cart/edit.php:16
+msgid "List Cart"
+msgstr ""
+
+#: ./templates/Admin/Cart/edit.php:23
+#: ./templates/Admin/Cart/view.php:11
+#: ./templates/Cart/edit.php:23
+msgid "Edit Cart"
+msgstr ""
+
+#: ./templates/Admin/Cart/edit.php:32
+#: ./templates/Admin/Products/productType.php:76
+#: ./templates/Admin/Products/promotions.php:76
+#: ./templates/Cart/edit.php:32
+#: ./templates/Cartitem/add.php:27
+#: ./templates/Cartitem/edit.php:32
+msgid "Submit"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:12
+msgid "Delete Cart"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:14
+msgid "New Cart"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:22
+msgid "C Status"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:26
+msgid "C Id"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:30
+msgid "C User Id"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:34
+#: ./templates/Cartitem/view.php:38
+msgid "C Created At"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:38
+#: ./templates/Cartitem/view.php:42
+msgid "C Updated At"
+msgstr ""
+
+#: ./templates/Admin/Cart/view.php:43
+msgid "C Detail"
+msgstr ""
+
+#: ./templates/Admin/Contact/edit.php:4
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr ""
+
+#: ./templates/Admin/Contact/index.php:18
+msgid "อัพเดตข้อมูล"
+msgstr ""
+
+#: ./templates/Admin/Orders/edit.php:4
+msgid "อัพเดตสถานะออเดอร์"
+msgstr ""
+
+#: ./templates/Admin/Orders/edit.php:5
+#: ./templates/Admin/Orders/view.php:4
+#: ./templates/Admin/Posts/add.php:15
+#: ./templates/Admin/Posts/edit.php:39
+#: ./templates/Admin/Posts/view.php:20
+#: ./templates/Admin/Posts/view.php:36
+#: ./templates/Admin/Products/add.php:16
+#: ./templates/Admin/Products/edit.php:39
+#: ./templates/Admin/Products/productType.php:2
+#: ./templates/Admin/Products/promotions.php:2
+#: ./templates/Admin/Products/view.php:39
+#: ./templates/Admin/Users/add.php:4
+#: ./templates/Admin/Users/edit.php:4
+#: ./templates/Admin/Users/view.php:4
+msgid "Back to"
+msgstr ""
+
+#: ./templates/Admin/Orders/view.php:3
+msgid "ข้อมูลออเดอร์"
+msgstr ""
+
+#: ./templates/Admin/Posts/add.php:20
+msgid "เพิ่มบทความข่าวสาร"
+msgstr ""
+
+#: ./templates/Admin/Posts/add.php:110
+#: ./templates/Admin/Posts/edit.php:143
+#: ./templates/Admin/Products/add.php:127
+#: ./templates/Admin/Products/edit.php:151
+#: ./templates/Admin/Users/add.php:56
+#: ./templates/Admin/Users/edit.php:84
+msgid "บันทึกข้อมูล"
+msgstr ""
+
+#: ./templates/Admin/Posts/edit.php:44
+#: ./templates/Admin/Products/edit.php:44
+#: ./templates/Admin/Products/view.php:44
+msgid "อัพเดตสินค้า"
+msgstr ""
+
+#: ./templates/Admin/Products/add.php:21
+#: ./templates/Admin/Products/productType.php:8
+#: ./templates/Admin/Products/promotions.php:8
+msgid "เพิ่มสินค้า"
+msgstr ""
+
+#: ./templates/Admin/Users/add.php:3
+msgid "เพิ่มผู้ใช้งาน"
+msgstr ""
+
+#: ./templates/Admin/Users/edit.php:3
+msgid "อัพเดตข้อมูลผู้ใช้งาน"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:3
+msgid "ข้อมูลผู้ใช้งาน"
+msgstr ""
+
+#: ./templates/Cartitem/add.php:11
+#: ./templates/Cartitem/edit.php:16
+#: ./templates/Cartitem/view.php:13
+msgid "List Cartitem"
+msgstr ""
+
+#: ./templates/Cartitem/add.php:18
+msgid "Add Cartitem"
+msgstr ""
+
+#: ./templates/Cartitem/edit.php:23
+#: ./templates/Cartitem/view.php:11
+msgid "Edit Cartitem"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:8
+#: ./templates/Cartitem/view.php:14
+msgid "New Cartitem"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:9
+msgid "Cartitem"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:33
+#: ./vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php:1260
+msgid "View"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:34
+msgid "Edit"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:44
+msgid "first"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:45
+msgid "previous"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:47
+msgid "next"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:48
+msgid "last"
+msgstr ""
+
+#: ./templates/Cartitem/index.php:50
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: ./templates/Cartitem/view.php:12
+msgid "Delete Cartitem"
+msgstr ""
+
+#: ./templates/Cartitem/view.php:22
+msgid "Cart Id"
+msgstr ""
+
+#: ./templates/Cartitem/view.php:26
+msgid "Cart User Id"
+msgstr ""
+
+#: ./templates/Cartitem/view.php:30
+msgid "Cart Product Id"
+msgstr ""
+
+#: ./templates/Cartitem/view.php:34
+msgid "Cart Qty"
+msgstr ""
+
+#: ./templates/element/component/front_navbar.php:16
+msgid "ไปหน้าจัดการ"
+msgstr "Go to Dashboard"
+
+#: ./templates/element/component/front_navbar.php:22
+msgid "สมัครสมาชิก"
+msgstr "Register"
+
+#: ./templates/element/component/front_navbar.php:24
+#: ./templates/element/component/front_navbar.php:70
+msgid "เข้าสู่ระบบ"
+msgstr "Login"
+
+#: ./templates/element/component/front_navbar.php:36
+#: ./templates/element/component/front_navbar.php:76
+msgid "สั่งซื้อสินค้า"
+msgstr "OrderNow"
+
+#: ./templates/element/component/front_navbar.php:45
+msgid "ธุรกิจของเรา"
+msgstr "OurBussiness"
+
+#: ./templates/element/component/front_navbar.php:49
+msgid "สินค้าของเรา"
+msgstr "OurProducts"
+
+#: ./templates/element/component/front_navbar.php:53
+msgid "บทความ"
+msgstr "OurBlog"
+
+#: ./templates/element/component/front_navbar.php:57
+msgid "ลูกค้าของเรา"
+msgstr "OurCustomer"
+
+#: ./templates/element/component/front_navbar.php:61
+msgid "สาขาของเรา"
+msgstr "OurBranch"
+
+#: ./templates/element/component/front_navbar.php:66
+msgid "เกี่ยวกับเรา"
+msgstr "AboutUs"
+

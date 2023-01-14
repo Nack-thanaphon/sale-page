@@ -1,0 +1,10 @@
+/* Home page styles */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@700&display=swap");
+
+body {
+    align-items: center;
+    background-color: #f5f5f5;
+    font-family: "Noto Sans Thai", sans-serif !important;
+    height: 100%;
+}
